@@ -1,2 +1,2 @@
 # azurergwithterraform1
-terrafirn apply --var-file=production.tfvars
+terraform apply --var-file=production.tfvars
